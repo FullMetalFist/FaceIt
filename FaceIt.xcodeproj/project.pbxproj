@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C2985701F0D5ADB00FE52C1 /* EmotionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C29856F1F0D5ADB00FE52C1 /* EmotionsViewController.swift */; };
 		7CD781A21E94203B007C3C5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD781A11E94203B007C3C5B /* AppDelegate.swift */; };
 		7CD781A41E94203B007C3C5B /* FaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD781A31E94203B007C3C5B /* FaceViewController.swift */; };
 		7CD781A71E94203B007C3C5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD781A51E94203B007C3C5B /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C29856F1F0D5ADB00FE52C1 /* EmotionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmotionsViewController.swift; sourceTree = "<group>"; };
 		7CD7819E1E94203B007C3C5B /* FaceIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CD781A11E94203B007C3C5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CD781A31E94203B007C3C5B /* FaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7CD782041E9BD428007C3C5B /* Model */,
 				7CD781B61E9420BD007C3C5B /* Views */,
 				7CD781A51E94203B007C3C5B /* Main.storyboard */,
+				7C29856F1F0D5ADB00FE52C1 /* EmotionsViewController.swift */,
 			);
 			path = FaceIt;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			files = (
 				7CD781A41E94203B007C3C5B /* FaceViewController.swift in Sources */,
 				7CD782071E9BD44E007C3C5B /* FacialExpression.swift in Sources */,
+				7C2985701F0D5ADB00FE52C1 /* EmotionsViewController.swift in Sources */,
 				7CD781A21E94203B007C3C5B /* AppDelegate.swift in Sources */,
 				7CD781B51E9420B7007C3C5B /* FaceView.swift in Sources */,
 			);
